@@ -1,0 +1,24 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "noroff workflow module 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johannranudd/joker.git"
+  },
+  "keywords": [
+    "enviroment",
+    "testing"
+  ],
+  "author": "johann ranudd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johannranudd/joker/issues"
+  },
+  "homepage": "https://github.com/johannranudd/joker#readme"
+}
