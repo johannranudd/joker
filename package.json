@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "npm test"
+    "test": "node ./js/joker.js"
   },
   "repository": {
     "type": "git",
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/johannranudd/joker/issues"
   },
-  "homepage": "https://github.com/johannranudd/joker#readme",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  }
+  "homepage": "https://github.com/johannranudd/joker#readme"
 }
